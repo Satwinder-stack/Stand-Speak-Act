@@ -2,7 +2,6 @@
 **StandSpeakAct** is a dynamic blogging platform created to **amplify voices on current global trends and social issues**. The platform emphasizes **high-readability typography**, structured content delivery, and a well-organized content management system.
 
 Its goal is to provide a digital space where users can **share perspectives, stay informed, and engage with meaningful discussions** about ongoing world events and societal topics. The platform also focuses on delivering **real-time updates** and an intuitive reading experience.
-
 ---
 
 ## Core Features
