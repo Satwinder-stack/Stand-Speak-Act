@@ -18,3 +18,9 @@ Its goal is to provide a digital space where users can **share perspectives, sta
 
 - **Personalized Content Filtering**  
   Users can **filter articles based on their interests**, allowing them to focus on topics that matter most to them.
+
+---
+
+## Copyright
+© 2026 **StandSpeakAct**. All Rights Reserved.  
+The platform, including its **design, structure, content management system, and source code**, is protected under copyright law. Unauthorized reproduction, distribution, or modification without permission is prohibited.
