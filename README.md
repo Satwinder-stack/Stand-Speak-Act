@@ -4,6 +4,7 @@
 Its goal is to provide a digital space where users can **share perspectives, stay informed, and engage with meaningful discussions** about ongoing world events and societal topics. The platform also focuses on delivering **real-time updates** and an intuitive reading experience.
 
 ---
+
 ## Core Features
 
 - **Dynamic Content Feed**  
