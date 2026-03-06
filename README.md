@@ -1,36 +1,20 @@
+## Purpose
+**StandSpeakAct** is a dynamic blogging platform created to **amplify voices on current global trends and social issues**. The platform emphasizes **high-readability typography**, structured content delivery, and a well-organized content management system.
 
-Author
-Satwinder Jeerh Role: Lead Developer
+Its goal is to provide a digital space where users can **share perspectives, stay informed, and engage with meaningful discussions** about ongoing world events and societal topics. The platform also focuses on delivering **real-time updates** and an intuitive reading experience.
 
-Overview
-StandSpeakAct is a dynamic blogging platform engineered to amplify voices on current global trends and social issues. In an era of rapid information, this project serves as a bridge between fast-moving world events and meaningful digital discourse.
+---
 
-The platform is built with a heavy emphasis on high-readability typography and a specialized UI, ensuring that the user experience is as impactful as the content itself. By prioritizing a clean, immersive aesthetic, the system reduces cognitive load and allows the reader to focus entirely on the narrative.
+## Core Features
 
-To ensure a high-quality information flow, the platform utilizes:
+- **Dynamic Content Feed**  
+  Articles are organized and displayed based on **trending topics and urgency**, ensuring readers can easily access the most relevant discussions.
 
-Dynamic Content Feeds: Articles are categorized by trending topics and urgency to keep users informed in real-time.
+- **Specialized User Interface**  
+  A carefully designed interface that provides a **smooth, engaging, and dynamic reading experience**.
 
-Personalized Filtering: Users can curate their experience by filtering articles based on specific interests and social causes.
+- **SEO-Optimized Articles**  
+  Article pages are structured with **search engine optimization in mind**, supporting **rich media integration** such as images and multimedia content.
 
-Rich Media Integration: SEO-optimized pages that seamlessly blend text with high-impact visuals and multimedia.
-
-Future updates will continue to refine the content management structure, further empowering users to engage with and respond to the issues that matter most.
-
-Purpose
-The purpose of this project is to develop a sophisticated digital space for social advocacy and global reporting through advanced web architecture.
-
-By merging robust backend management with a front-end focused on clarity, the system helps:
-
-Amplify marginalized voices on critical social issues.
-
-Provide real-time updates on global trends through an organized, urgent feed.
-
-Enhance digital literacy by offering a professional, high-readability environment for long-form discourse.
-
-This creates a more powerful and accessible platform for both content creators and global citizens seeking a deeper understanding of the world.
-
-Copyright
-© All Rights Reserved.
-
-The system, including its design, typography scales, implementation, and source code, is protected under copyright law.
+- **Personalized Content Filtering**  
+  Users can **filter articles based on their interests**, allowing them to focus on topics that matter most to them.
